@@ -1,2 +1,3 @@
 # ProblemSolvingTestAbdullahHafidzFurqon
-Memenuhi Problem Solving Test pada Internship PT. GITS Indonesia
+
+## Penjelasan Soal 3 (Balanced Bracket)
